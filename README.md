@@ -22,3 +22,5 @@ Reduced manual effort by 40%.
 
 https://public.tableau.com/app/profile/karthik.pillarisetti/viz/crowdfundingtableau_17544600172660/CROWDFUNDING
 https://public.tableau.com/app/profile/karthik.pillarisetti/viz/HOSPITALITYANALYTICSDASHBOARDTABLEAU/HOSPITALITYANALYTICSDASHBOARD?publish=yes
+
+Seeking Data Analyst roles in IT, finance, or e‑commerce to apply my skills in Power BI, Tableau, Excel, and SQL.
